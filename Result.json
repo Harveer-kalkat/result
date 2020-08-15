@@ -1,0 +1,20 @@
+[
+    {
+    "name":"Rajiv",
+    "marks":84,
+    "rollNumber":"KV2017-5A2",
+    "status":"Fail"
+    },
+    {
+    "name":"Abhishek",
+    "marks":110,
+    "rollNumber":"KV2017-5A1",
+    "status":"Pass"
+    },
+    {
+    "name":"Zoya",
+    "marks":123,
+    "rollNumber":"KV2017-5A3",
+    "status":"Topper"
+    }
+    ]
