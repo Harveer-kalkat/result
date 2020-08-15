@@ -1,0 +1,17 @@
+.tb,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th,td{
+    padding: 15px;
+}
+.tb{
+    margin-left: 25%;
+}
+.btn{
+    margin-left: 22%;
+    margin-top: 5%;
+}
+#rw1{
+    font-style: italic;
+}
